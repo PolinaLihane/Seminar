@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\bin\Debug\net6.0\Example002_Week.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\bin\Debug\net6.0\Example002_Week.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\bin\Debug\net6.0\Example002_Week.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\bin\Debug\net6.0\Example002_Week.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\bin\Debug\net6.0\Example002_Week.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\refint\Example002_Week.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\Example002_Week.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example002_Week\obj\Debug\net6.0\ref\Example002_Week.dll
