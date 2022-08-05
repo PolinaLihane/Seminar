@@ -1,4 +1,5 @@
 ﻿using static System.Console;
+// день недели по числу, почему в конце ошибка?
 Write("Введите число: ");
 int day = Convert.ToInt32(ReadLine());
 if (day == 1) WriteLine("Понедельник");
