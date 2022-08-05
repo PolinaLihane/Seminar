@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\bin\Debug\net6.0\Example001_Square.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\bin\Debug\net6.0\Example001_Square.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\bin\Debug\net6.0\Example001_Square.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\bin\Debug\net6.0\Example001_Square.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\bin\Debug\net6.0\Example001_Square.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\refint\Example001_Square.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\Example001_Square.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example001_Square\obj\Debug\net6.0\ref\Example001_Square.dll
