@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\bin\Debug\net6.0\Example004_Numbers.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\bin\Debug\net6.0\Example004_Numbers.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\bin\Debug\net6.0\Example004_Numbers.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\bin\Debug\net6.0\Example004_Numbers.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\bin\Debug\net6.0\Example004_Numbers.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\refint\Example004_Numbers.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\Example004_Numbers.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example004_Numbers\obj\Debug\net6.0\ref\Example004_Numbers.dll
