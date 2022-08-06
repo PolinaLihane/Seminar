@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\bin\Debug\net6.0\Example005_LastNumber.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\bin\Debug\net6.0\Example005_LastNumber.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\bin\Debug\net6.0\Example005_LastNumber.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\bin\Debug\net6.0\Example005_LastNumber.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\bin\Debug\net6.0\Example005_LastNumber.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\refint\Example005_LastNumber.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\Example005_LastNumber.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example005_LastNumber\obj\Debug\net6.0\ref\Example005_LastNumber.dll
