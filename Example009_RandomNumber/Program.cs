@@ -9,7 +9,7 @@ int GetRandomNumberInRange(int minNumber, int maxNumber)
 }
 int GetMaxDigitFromNumber(int number)
 {
-    int result =number/10;
+    int result = number/10;
     int secondDigit = number % 10;
     if (result < secondDigit)
     {
@@ -21,5 +21,5 @@ for (int i = 0; i < 10; i++)
 {
     int randomNumber = GetRandomNumberInRange(1,99);
 int maxDigit = GetMaxDigitFromNumber(randomNumber);
-WriteLine($"Наибольшая цифра числа{randomNumber} является {maxDigit}");
+WriteLine($"Наибольшая цифра числа {randomNumber} является {maxDigit}");
 }
