@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\bin\Debug\net6.0\Example009_RandomNumber.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\bin\Debug\net6.0\Example009_RandomNumber.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\bin\Debug\net6.0\Example009_RandomNumber.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\bin\Debug\net6.0\Example009_RandomNumber.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\bin\Debug\net6.0\Example009_RandomNumber.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\refint\Example009_RandomNumber.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\Example009_RandomNumber.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example009_RandomNumber\obj\Debug\net6.0\ref\Example009_RandomNumber.dll
