@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\bin\Debug\net6.0\Example18.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\bin\Debug\net6.0\Example18.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\bin\Debug\net6.0\Example18.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\bin\Debug\net6.0\Example18.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\bin\Debug\net6.0\Example18.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\refint\Example18.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\Example18.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example18\obj\Debug\net6.0\ref\Example18.dll
