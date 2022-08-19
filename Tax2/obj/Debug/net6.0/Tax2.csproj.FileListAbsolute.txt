@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\bin\Debug\net6.0\Tax2.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\bin\Debug\net6.0\Tax2.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\bin\Debug\net6.0\Tax2.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\bin\Debug\net6.0\Tax2.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\bin\Debug\net6.0\Tax2.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\refint\Tax2.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\Tax2.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Tax2\obj\Debug\net6.0\ref\Tax2.dll
