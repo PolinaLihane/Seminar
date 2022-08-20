@@ -1,27 +1,26 @@
-﻿//тип 33
-//  Задайте массив. Напишите программу, которая определяет,
-// присутствует ли заданное число в массиве.
+﻿// 35
+//Случайный массив. сколько элементов лежат в отрезке [10,99]
 
 using static System.Console;
 Clear();
+WriteLine("Введите размер");
+int size = int.Parse(ReadLine());
+int count=0;
+int[] array = GetArray(size);
+WriteLine($"[{String.Join(",",array)}]");
 
-int[] GetArray=GetArrayFromString(ReadLine());
-WriteLine($"[{String.Join(",",GetArray)}]");
-WriteLine("Введите число");
-int number = int.Parse(ReadLine());
-bool res = false;
-foreach(bool item in GetArray) // поиск(опрос) в массиве item нельзя изменять
+foreach(int item in array)
 {
-    res=item=number?item:false;
+    count+=item<99&&item>10?item:0;
 }
-WriteLine(res);
-int[] GetArrayFromString(string arrayString)
+WriteLine(count);
+
+int[] GetArray(int size)
 {
-    string[] massString=arrayString.Split(" ",StringSplitOptions.RemoveEmptyEntries);
-    int[] result= new int[massString.Length];
-    for (int i =0;i<result.Length;i++)
+    int[] result=new int[size];
+    for (int i=0;i<size;i++)
     {
-        result[i]=int.Parse(massString[i]);
+        result[i]=new Random().Next(-999,999);
     }
     return result;
 }

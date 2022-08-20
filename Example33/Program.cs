@@ -1,27 +1,35 @@
-﻿//33
-// вывести массив указанной длины и вычислить суммы + и - элементов
+﻿//тип 33
+//  Задайте массив. Напишите программу, которая определяет,
+// присутствует ли заданное число в массиве.
 
 using static System.Console;
 Clear();
-int[] array =GetArray(12, -9, 9);// длина 12 от -9 до 9 числа
-WriteLine($"{String.Join(" ",array)}");
-int positiveSum=0;
-int negativeSum=0;
-foreach(int item in array) // поиск(опрос) в массиве item нельзя изменять
-{
-    positiveSum+=item>0?item:0;
- //+= + к прошлому значению.если итем больше 0.итем присвоить 0
-    negativeSum+=item<0?item:0;
-}
-WriteLine($"Сумма положительных = {positiveSum}");
-WriteLine($"Сумма отрицательных = {negativeSum}");
 
-int[] GetArray(int size, int minValue, int maxValue)
+int[] GetArray=GetArrayFromString(ReadLine());
+WriteLine($"[{String.Join(",",GetArray)}]");
+WriteLine("Введите число");
+int number = int.Parse(ReadLine());
+bool res = FindNumber(GetArray,number);
+WriteLine(res);
+bool FindNumber(int[] GetArray,int number)
 {
-    int[] result = new int[size];
-    for (int i =0; i < size; i++)
+    for (int i =0;i<GetArray.Length;i++)
     {
-        result[i]=new Random().Next(minValue,maxValue+1);
+        if (GetArray[i] == number)
+        {
+            return true;
+        }
+    }
+ return false;
+}
+
+int[] GetArrayFromString(string arrayString)
+{
+    string[] massString=arrayString.Split(" ",StringSplitOptions.RemoveEmptyEntries);
+    int[] result= new int[massString.Length];
+    for (int i =0;i<result.Length;i++)
+    {
+        result[i]=int.Parse(massString[i]);
     }
     return result;
 }

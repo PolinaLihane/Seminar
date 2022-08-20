@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\golland\\Desktop\\git\\C#\\seminar1\\Example35\\Example35.csproj",
-      "projectName": "Example35",
-      "projectPath": "C:\\Users\\golland\\Desktop\\git\\C#\\seminar1\\Example35\\Example35.csproj",
+      "projectUniqueName": "C:\\Users\\golland\\Desktop\\git\\C#\\seminar1\\Example37\\Example37.csproj",
+      "projectName": "Example37",
+      "projectPath": "C:\\Users\\golland\\Desktop\\git\\C#\\seminar1\\Example37\\Example37.csproj",
       "packagesPath": "C:\\Users\\golland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\golland\\Desktop\\git\\C#\\seminar1\\Example35\\obj\\",
+      "outputPath": "C:\\Users\\golland\\Desktop\\git\\C#\\seminar1\\Example37\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\golland\\AppData\\Roaming\\NuGet\\NuGet.Config"
