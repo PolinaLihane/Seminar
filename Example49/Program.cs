@@ -4,7 +4,7 @@
 using static System.Console;
 using System.Linq;
         Clear();
-        Write("Введите размеры массива мин и макс значения через пробел");
+           Write("Введите размеры массива мин и макс значения через пробел");
         int[] parameters = ReadLine()!.Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(x => int.Parse(x)).ToArray();
 
         int[,] matrix = GetMatrixArray(parameters[0], parameters[1], parameters[2], parameters[3]);

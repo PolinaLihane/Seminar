@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\bin\Debug\net6.0\Example57.exe
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\bin\Debug\net6.0\Example57.deps.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\bin\Debug\net6.0\Example57.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\bin\Debug\net6.0\Example57.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\bin\Debug\net6.0\Example57.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\refint\Example57.dll
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.pdb
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\Example57.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\seminar1\Example57\obj\Debug\net6.0\ref\Example57.dll
